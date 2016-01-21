@@ -1,1 +1,2 @@
-ceci est un premier fichier pour la création sur github
+ceci est un premier fichier sur la création sur github
+modifier ce fichier pour l'activité sur GitHub
